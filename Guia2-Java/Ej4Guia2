@@ -1,0 +1,5 @@
+run:
+Ingrese un valor en Grados Centigrados 
+25
+El equivalente a 25 centigrados a Grados Fahrenheit es  :77
+BUILD SUCCESSFUL (total time: 7 seconds)
