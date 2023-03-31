@@ -1,0 +1,6 @@
+run:
+Ingresa dos números enteros
+10
+15
+Los dos números son menores a 25
+BUILD SUCCESSFUL (total time: 3 seconds)
