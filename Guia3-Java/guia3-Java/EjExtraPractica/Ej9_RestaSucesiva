@@ -1,0 +1,13 @@
+run:
+Ingresa un número
+50
+Ingresa el divisor
+13
+--------------
+50 - 13 = 37
+--------------
+37 - 13 = 24
+--------------
+24 - 13 = 11
+
+BUILD SUCCESSFUL (total time: 10 seconds)

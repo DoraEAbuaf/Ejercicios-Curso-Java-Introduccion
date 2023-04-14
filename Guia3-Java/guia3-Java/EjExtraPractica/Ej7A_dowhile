@@ -1,0 +1,17 @@
+run:
+Ingrese la cantidad de numeros a comparar
+6
+Ingrese los valores a comparar
+1
+Ingrese los valores a comparar
+2
+Ingrese los valores a comparar
+3
+Ingrese los valores a comparar
+4
+Ingrese los valores a comparar
+5
+Ingrese los valores a comparar
+6
+El valor Maximo es :6 El valor Minimo es:1
+BUILD SUCCESSFUL (total time: 6 seconds)

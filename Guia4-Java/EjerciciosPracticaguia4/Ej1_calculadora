@@ -1,0 +1,12 @@
+run:
+Ingrese dos números enteros
+10
+3
+Elije la operacion a realizar
+1.Suma
+2.Resta
+3.Multiplicar
+4.Dividir
+4
+La división es 3,33
+BUILD SUCCESSFUL (total time: 4 seconds)

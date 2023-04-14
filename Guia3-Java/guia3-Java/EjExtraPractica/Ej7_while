@@ -1,0 +1,9 @@
+run:
+Ingrese la cantidad de numeros que desea comparar
+2
+Ingrese los numeros
+3
+Ingrese los numeros
+7
+El valor máximo es: 7 y el valor mínimo es: 3
+BUILD SUCCESSFUL (total time: 5 seconds)
